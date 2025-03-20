@@ -232,11 +232,6 @@ public class KafkaController {
    - 프로듀서 acks 설정 확인
    - 적절한 파티션 수 및 복제 계수 설정
 
-## 라이센스
-
-이 프로젝트는 MIT 라이센스 하에 배포됩니다. 자세한 내용은 LICENSE 파일을 참조하세요.
-
-
 ---
 
 *© 2024 김민희 kafka*
