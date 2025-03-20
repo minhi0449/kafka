@@ -218,8 +218,6 @@ public class KafkaController {
 
 ## 트러블슈팅
 
-### 일반적인 이슈
-
 1. **연결 문제**
    - Kafka 브로커 연결 설정 확인
    - 방화벽 또는 네트워크 문제 확인
