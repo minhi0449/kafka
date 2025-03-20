@@ -232,5 +232,5 @@ public class KafkaController {
 
 ---
 
-*© 2024 김민희 kafka*
+*Copyright © 2024 Kimminhee All Rights Reserved.*
 
